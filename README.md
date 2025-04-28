@@ -1,9 +1,7 @@
 # 🥷 Stirling Samurai – 2D Platformer Game  
 **CSCU9N6 – Games Development Assignment**  
-**Student ID:** 3142868  
 **Language:** Java  
 **IDE:** NetBeans / Eclipse  
-**Submission Date:** _[Insert Date]_
 
 ---
 
@@ -50,21 +48,16 @@ The game demonstrates animation, enemy AI, sound effects, smart collision detect
 
 ## 📂 Project Structure
 
-```
+
 ├── game2D/
-│   ├── Game.java              # Main game logic
-│   ├── GameCore.java          # Abstract game loop
-│   ├── Animation.java         # Sprite animation manager
-│   ├── Sprite.java            # All character logic
-│   ├── TileMap.java           # Tile map loading + drawing
-│   ├── Tile.java              # Tile attributes
-│   ├── Sound.java             # Sound effect player
-│   └── Velocity.java          # (Optional) Movement logic
-│
-├── maps/                      # map.txt, map_2.txt (levels)
-├── images/                    # All player, enemy, item sprites
-├── sounds/                    # jump.wav, coin.wav, arabNight.mid etc.
-```
+│   ├── Game.java              # Main game logic                      |  
+│   ├── GameCore.java          # Abstract game loop                   |
+│   ├── Animation.java         # Sprite animation manager             |
+│   ├── Sprite.java            # All character logic                  |
+│   ├── TileMap.java           # Tile map loading + drawing           |
+│   ├── Tile.java              # Tile attributes                      |
+│   ├── Sound.java             # Sound effect player                  |
+│   └── Velocity.java          # (Optional) Movement logic            |
 
 ---
 
@@ -114,7 +107,7 @@ The game demonstrates animation, enemy AI, sound effects, smart collision detect
 
 ## 🏅 Credits
 
-Developed by **[Your Name]**  
+Developed by **Mohamed Zaki**  
 All assets used are for academic use only and were sourced from open or royalty-free game art platforms.
 
 ---
